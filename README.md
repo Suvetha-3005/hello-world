@@ -1,2 +1,2 @@
 # hello-world
-just another repository
+i am suvetha studying computer science enginer
